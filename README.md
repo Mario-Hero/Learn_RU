@@ -4,7 +4,7 @@
 
 **Русский язык ОЧЕНЬ ТРУДНО! Поэтому я сделал эту программу.**
 
-**Russian is fucking hard! So I made this program.**
+**Russian is SO hard! So I made this program.**
 
 ロシアは本当に難しいです！だから私はこのプログラムを作った。
 <br>
