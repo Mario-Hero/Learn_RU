@@ -70,7 +70,8 @@ def thousandNum(num):
         if num >= 5:
             return ONE[num - 1] + ' ' + THOUSAND[2]
         elif num == 1:
-            return 'одна\' ' + THOUSAND[0]
+            #return 'одна\' ' + THOUSAND[0]
+            return THOUSAND[0]
         elif num == 2:
             return 'две\' ' + THOUSAND[1]
         else:
