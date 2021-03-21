@@ -6,7 +6,6 @@
 
 **Russian is SO hard! So I made this program.**
 
-ロシアは本当に難しいです！だから私はこのプログラムを作った。
 <br>
 
 
