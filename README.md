@@ -5,10 +5,6 @@
 **Русский язык ОЧЕНЬ ТРУДНО! Поэтому я написал эту программу.**
 
 **Russian is SO hard! So I made this program.**
-
-<br>
-
-
 ## Нужно
 
 Python 3.x
